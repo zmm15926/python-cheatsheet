@@ -1,3 +1,4 @@
+# B1
 Comprehensive Python Cheatsheet
 ===============================
 <sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/main/README.md), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
@@ -3584,6 +3585,5 @@ Index
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 * **Click on the title's `'🔗'` to get a link to its section.**
-
-
-
+# BRANCH1 CHANGE 2
+# BRANCH1 CHANGE 3
